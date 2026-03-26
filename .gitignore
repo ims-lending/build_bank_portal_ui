@@ -1,0 +1,37 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.cshrc
+.profile
+.bashrc
+.zshrc
+.bash_history
+.zsh_history
+.DS_Store
+.vscode
+.history
+*.swp
+*.swo
+*.swn
+
+# Operating System
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Angular
+/.angular
